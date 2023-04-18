@@ -1,9 +1,10 @@
-import Simpson from "./components/Simpson/simpson";
+import React from 'react';
+import Posts from "./components/task 1/Posts";
 
 const App = () => {
     return (
         <div>
-           <Simpson/>pososi yayca
+          <Posts/>
         </div>
     );
 };
